@@ -24,3 +24,24 @@
     border-color: floralwhite;
     color: blue;
 }
+
+.failure-part {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+    text-align: justify;
+    padding: 50px;
+}
+
+.failer-text {
+    margin-top: 100px;
+    padding: 100px;
+}
+
+.failer-paragraph {
+    margin-top: 15px;
+}
+
+.failer-reason {
+    margin-top: 15px;
+}
