@@ -25,7 +25,9 @@
     color: blue;
 }
 
-.failure-part {
+/* Failure and success part ---
+---------------------------------- */
+.my-part {
     display: flex;
     justify-content: space-evenly;
     margin-top: 100px;
@@ -44,4 +46,18 @@
 
 .failer-reason {
     margin-top: 15px;
+}
+
+/* Plan part ------
+-------------------------- */
+.plan-part-top {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.plan-part {
+    display: flex;
+    margin-left: 180px;
+    justify-content: space-evenly;
+    margin-top: 50px;
 }
