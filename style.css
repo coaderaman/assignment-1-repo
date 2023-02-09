@@ -1,0 +1,26 @@
+* {
+    font-family: "Gill Sans", sans-serif;
+    margin: 0px;
+}
+
+/* Header part
+------------------- */
+.header-part {
+    background-image: url(./images/banner/banner3.png);
+    width: 100%;
+    height: 800px;
+}
+
+.header-text {
+    text-align: right;
+    padding: 200px 100px;
+    color: antiquewhite;
+}
+
+.button {
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    border-color: floralwhite;
+    color: blue;
+}
